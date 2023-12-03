@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @MohanishHawk
-- 👀 I’m interested in Data analytics and machine learning 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 MohanishHawk/MohanishHawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
